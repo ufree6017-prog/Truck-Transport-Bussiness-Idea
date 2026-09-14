@@ -1,0 +1,6 @@
+{
+  "name": "TruckSetu - Truck Transport Marketplace",
+  "description": "Pan-India on-demand truck and goods transport platform for intracity mini-trucks and intercity heavy freight logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
